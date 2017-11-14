@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-
+package routeguide;
 
 service RouteGuide {
     // Obtains the feature at a given position from the Client
